@@ -1,0 +1,18 @@
+# data (too large for git — download via load_dataset)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# results are committed
